@@ -1,0 +1,28 @@
+{
+  "name": "travelian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch ./src/sass/main.scss ./src/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NataliiaMataczynska/travelian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliiaMataczynska/travelian/issues"
+  },
+  "homepage": "https://github.com/NataliiaMataczynska/travelian#readme",
+  "devDependencies": {
+    "letters": "^0.0.2",
+    "sass": "^1.83.4"
+  },
+  "dependencies": {
+
+  }
+}
